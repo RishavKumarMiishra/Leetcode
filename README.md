@@ -17,9 +17,14 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 | [1137-n-th-tribonacci-number](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Array
+|  |
+| ------- |
+| [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 <!---LeetCode Topics End-->
