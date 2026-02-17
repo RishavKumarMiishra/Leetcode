@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0401-binary-watch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Math
 |  |
@@ -46,4 +47,8 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0091-decode-ways) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
