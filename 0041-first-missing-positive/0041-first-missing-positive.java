@@ -2,7 +2,7 @@ class Solution {
     public int firstMissingPositive(int[] nums) {
         int len = nums.length;
         for (int i = 0; i < len; i++) {
-            while (i < len && nums[i] > 0 && nums[i] <= len && nums[i] != nums[nums[i]-1]) {
+            while (nums[i] > 0 && nums[i] <= len && nums[i] != nums[nums[i]-1]) {
                 int temp = nums[i];
                 nums[i] = nums[temp-1];
                 nums[temp-1] = temp;
