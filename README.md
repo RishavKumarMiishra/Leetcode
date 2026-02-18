@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0041-first-missing-positive) |
 | [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0213-house-robber-ii) |
 ## Recursion
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0401-binary-watch) |
+## Hash Table
+|  |
+| ------- |
+| [0041-first-missing-positive](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0041-first-missing-positive) |
 <!---LeetCode Topics End-->
