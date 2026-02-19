@@ -43,11 +43,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0696-count-binary-substrings](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0696-count-binary-substrings) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0091-decode-ways) |
+| [0696-count-binary-substrings](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Backtracking
 |  |
 | ------- |
