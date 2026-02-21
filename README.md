@@ -11,10 +11,12 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0401-binary-watch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 ## Math
 |  |
 | ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
