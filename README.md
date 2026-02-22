@@ -13,6 +13,7 @@
 | [0401-binary-watch](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0868-binary-gap](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0868-binary-gap) |
 ## Math
 |  |
 | ------- |
