@@ -75,13 +75,16 @@
 ## Tree
 |  |
 | ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->
