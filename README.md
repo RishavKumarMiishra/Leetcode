@@ -14,6 +14,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0868-binary-gap](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Math
 |  |
@@ -39,6 +40,7 @@
 | [0041-first-missing-positive](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0041-first-missing-positive) |
 | [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0213-house-robber-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -87,4 +89,12 @@
 | ------- |
 | [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
