@@ -48,6 +48,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Recursion
@@ -135,6 +136,7 @@
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Sliding Window
 |  |
 | ------- |
