@@ -24,6 +24,7 @@
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0779-k-th-symbol-in-grammar](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1137-n-th-tribonacci-number](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Recursion
@@ -126,6 +128,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
 | ------- |
@@ -139,6 +142,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sliding Window
 |  |
