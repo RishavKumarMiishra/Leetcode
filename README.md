@@ -109,16 +109,19 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0100-same-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0100-same-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0100-same-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Sorting
@@ -188,4 +191,8 @@
 |  |
 | ------- |
 | [3548-equal-sum-grid-partition-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
