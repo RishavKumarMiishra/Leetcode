@@ -111,6 +111,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -203,4 +206,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
