@@ -1,49 +1,80 @@
 class Solution {
-
     public String generateString(String str1, String str2) {
         int n = str1.length();
         int m = str2.length();
-        char[] s = new char[n + m - 1];
-        int[] fixed = new int[n + m - 1];
-
-        for (int i = 0; i < s.length; i++) {
-            s[i] = 'a';
+        int len = n + m - 1;
+        char[] ans = new char[len];
+        
+        // Initialize the array with a placeholder
+        for (int i = 0; i < len; i++) {
+            ans[i] = '*';
         }
-
+        
+        // Step 1: Apply all 'T' constraints
         for (int i = 0; i < n; i++) {
             if (str1.charAt(i) == 'T') {
-                for (int j = i; j < i + m; j++) {
-                    if (fixed[j] == 1 && s[j] != str2.charAt(j - i)) {
-                        return "";
-                    } else {
-                        s[j] = str2.charAt(j - i);
-                        fixed[j] = 1;
+                for (int j = 0; j < m; j++) {
+                    // If a character is already set by a previous 'T' and conflicts, it's impossible
+                    if (ans[i + j] != '*' && ans[i + j] != str2.charAt(j)) {
+                        return ""; 
                     }
+                    ans[i + j] = str2.charAt(j);
                 }
             }
         }
-
+        
+        // Step 2: Ensure 'T' placements didn't accidentally violate an 'F' constraint
         for (int i = 0; i < n; i++) {
             if (str1.charAt(i) == 'F') {
-                boolean flag = false;
-                int idx = -1;
-                for (int j = i + m - 1; j >= i; j--) {
-                    if (str2.charAt(j - i) != s[j]) {
-                        flag = true;
-                    }
-                    if (idx == -1 && fixed[j] == 0) {
-                        idx = j;
+                boolean match = true;
+                for (int j = 0; j < m; j++) {
+                    if (ans[i + j] != str2.charAt(j)) {
+                        match = false;
+                        break;
                     }
                 }
-                if (flag) {
-                    continue;
-                } else if (idx != -1) {
-                    s[idx] = 'b';
-                } else {
-                    return "";
+                if (match) {
+                    return ""; 
                 }
             }
         }
-        return new String(s);
+        
+        // Step 3: Fill '*' with the lexicographically smallest valid character
+        for (int i = 0; i < len; i++) {
+            if (ans[i] == '*') {
+                // Try 'a' through 'z'
+                for (char c = 'a'; c <= 'z'; c++) {
+                    ans[i] = c;
+                    boolean valid = true;
+                    
+                    // Check if this character violates any 'F' constraint that OVERLAPS with index i
+                    int start = Math.max(0, i - m + 1);
+                    int end = Math.min(n - 1, i);
+                    
+                    for (int k = start; k <= end; k++) {
+                        if (str1.charAt(k) == 'F') {
+                            boolean match = true;
+                            for (int j = 0; j < m; j++) {
+                                if (ans[k + j] != str2.charAt(j)) {
+                                    match = false;
+                                    break;
+                                }
+                            }
+                            if (match) {
+                                valid = false;
+                                break;
+                            }
+                        }
+                    }
+                    
+                    // If no overlaps violate an 'F', we found our smallest valid character
+                    if (valid) {
+                        break; 
+                    }
+                }
+            }
+        }
+        
+        return new String(ans);
     }
 }
