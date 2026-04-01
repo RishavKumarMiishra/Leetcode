@@ -53,6 +53,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2573-find-the-string-with-lcp) |
+| [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Counting
 |  |
@@ -149,6 +151,7 @@
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Greedy
 |  |
@@ -217,4 +220,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Stack
+|  |
+| ------- |
+| [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
 <!---LeetCode Topics End-->
