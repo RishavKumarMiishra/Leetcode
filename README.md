@@ -37,6 +37,7 @@
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Memoization
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Recursion
 |  |
@@ -170,6 +172,7 @@
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2573-find-the-string-with-lcp](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Sliding Window
 |  |
