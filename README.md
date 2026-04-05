@@ -76,6 +76,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0091-decode-ways](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0091-decode-ways) |
+| [0657-robot-return-to-origin](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0696-count-binary-substrings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -155,6 +156,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
