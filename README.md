@@ -162,6 +162,7 @@
 | [0874-walking-robot-simulation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2069-walking-robot-simulation-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -238,4 +239,8 @@
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
+## Design
+|  |
+| ------- |
+| [2069-walking-robot-simulation-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 <!---LeetCode Topics End-->
