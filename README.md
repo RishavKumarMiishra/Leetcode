@@ -7,6 +7,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0190-reverse-bits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Recursion
 |  |
