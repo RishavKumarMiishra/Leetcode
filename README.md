@@ -36,6 +36,7 @@
 | [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0213-house-robber-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2573-find-the-string-with-lcp) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
@@ -85,6 +86,7 @@
 | [0091-decode-ways](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0091-decode-ways) |
 | [0657-robot-return-to-origin](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0696-count-binary-substrings) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
