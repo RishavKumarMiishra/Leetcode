@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0049-group-anagrams) |
 | [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0213-house-robber-ii) |
 | [0494-target-sum](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0494-target-sum) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0091-decode-ways) |
 | [0657-robot-return-to-origin](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -119,6 +121,7 @@
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0049-group-anagrams) |
 | [0874-walking-robot-simulation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1980-find-unique-binary-string) |
@@ -165,6 +168,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0049-group-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2463-minimum-total-distance-traveled](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2751-robot-collisions](https://github.com/RishavKumarMiishra/Leetcode/tree/master/2751-robot-collisions) |
