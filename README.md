@@ -35,6 +35,7 @@
 | [0091-decode-ways](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0494-target-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -53,6 +54,7 @@
 | [0041-first-missing-positive](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0041-first-missing-positive) |
 | [0198-house-robber](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0213-house-robber-ii) |
+| [0494-target-sum](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0494-target-sum) |
 | [0874-walking-robot-simulation](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/RishavKumarMiishra/Leetcode/tree/master/0494-target-sum) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/RishavKumarMiishra/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
