@@ -7,12 +7,12 @@ class Solution {
             Arrays.fill(dp[i], Integer.MIN_VALUE);
         }
 
-        return countSum(n-1,0,  target, nums, dp);
+        return countSum(0 ,0,  target, nums, dp);
     }
 
     public int countSum(int ind,int sum, int target, int[] nums, int[][] dp) {
 
-        if (ind < 0) {
+        if (ind >= nums.length) {
             return sum==target ? 1: 0;
         }
 
@@ -20,8 +20,8 @@ class Solution {
             return dp[ind][sum+1000];
         }
 
-        int plus = countSum(ind-1,sum+nums[ind], target, nums, dp);
-        int minus = countSum(ind-1, sum-nums[ind], target, nums, dp);
+        int plus = countSum(ind+1,sum+nums[ind], target, nums, dp);
+        int minus = countSum(ind+1, sum-nums[ind], target, nums, dp);
 
         return dp[ind][sum+1000]=plus+minus;
     }
